@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application61</string>
+    <string name="pkmon">Chose a Pokemon!!</string>
+    <string name="opt1">Charmander</string>
+    <string name="opt2">Bulbasaur </string>
+    <string name="opt3">Squirtle</string>
+    <string name="valid">Validar</string>"
+    <string name="icon_description">Icon ball</string>
+    <string name="close">Cerrar</string>
+
+</resources>
