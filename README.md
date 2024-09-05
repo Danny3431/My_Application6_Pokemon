@@ -46,6 +46,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 
 - Haz un fork del proyecto.
 - Crea tu feature branch (git checkout -b feature/nueva-caracteristica).
-- Realiza tus cambios y haz commit (git commit -m 'Agrega nueva característica').
+- Realiza tus cambios y haz commit (git commit -m "Agrega nueva característica").
 - Haz push a la branch (git push origin feature/nueva-caracteristica).
 - Abre un Pull Request.
